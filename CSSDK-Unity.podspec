@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CSSDK-Unity'
-  s.version          = '2.1.0.1.unity'
+  s.version          = '2.1.0.1'
   s.summary          = 'CSSDK Unity 2.1.0.1'
 
 # This description is used to generate tags and improve search results.
@@ -16,7 +16,7 @@ CServiceSDK Unity 2.1.0.1
   s.homepage         = 'https://guojunliu.github.io'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { "steve" => "909476821@qq.com" }
-  s.source           = { :git => 'https://github.com/Avid-ly/Avidly-iOS-CSSDK-CocoaPods.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/Avid-ly/Avidly-iOS-CSSDK-CocoaPods.git', :tag => "#{s.version}.unity" }
 
   s.ios.deployment_target = '10.0'
 
