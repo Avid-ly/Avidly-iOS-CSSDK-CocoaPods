@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#define CSSDKVERSION            @"2.1.0.1"
-#define CSSDK_SERVICE_VERSION   @"2101"
+#define CSSDKVERSION            @"2.1.0.5"
+#define CSSDK_SERVICE_VERSION   @"2105"
 #define CSSDK_BUILD             @"1"
-#define CSSDKVersionString      @"CSSDK_VERSION_2101.1"
+#define CSSDKVersionString      @"CSSDK_VERSION_2105.1"
