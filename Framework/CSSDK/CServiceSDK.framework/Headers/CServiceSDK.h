@@ -1,8 +1,8 @@
 //
 //  CServiceSDK.h
-//  IosSdk
+//  CSSDK
 //
-//  Created by 何健 on 11/18/19.
+//  Created by Steve on 11/18/19.
 //  Copyright © 2019 customerservice. All rights reserved.
 //
 
