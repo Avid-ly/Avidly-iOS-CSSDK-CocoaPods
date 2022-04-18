@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CSSDK'
-  s.version          = '2.1.0.7'
-  s.summary          = 'CSSDK 2.1.0.7'
+  s.version          = '2.1.0.8'
+  s.summary          = 'CSSDK 2.1.0.8'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-CServiceSDK 2.1.0.7
+CServiceSDK 2.1.0.8
                        DESC
 
   s.homepage         = 'https://guojunliu.github.io'
@@ -24,7 +24,7 @@ CServiceSDK 2.1.0.7
 
   s.frameworks = 'QuartzCore', 'MediaPlayer', 'CoreMedia', 'CoreGraphics', 'CFNetwork', 'WebKit', 'WatchConnectivity', 'SystemConfiguration', 'StoreKit', 'Social', 'MessageUI','JavaScriptCore','EventKit','CoreTelephony','AVFoundation','AdSupport'
 
-  s.vendored_frameworks = 'Framework/CSSDK/CServiceSDK.framework'
+  s.vendored_frameworks = 'Framework/CSSDK/CServiceSDK.xcframework'
   
   s.resources = "Framework/CSSDK/CServiceSDK.bundle"
 
