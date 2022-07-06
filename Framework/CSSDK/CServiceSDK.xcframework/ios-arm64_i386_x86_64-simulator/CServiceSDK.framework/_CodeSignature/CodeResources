@@ -6,15 +6,15 @@
 	<dict>
 		<key>Headers/CServiceSDK.h</key>
 		<data>
-		qMwpv6bbE88IMEVn9gWmuprSfr0=
+		nC95bGRhgtPstjAooNKh/A4aDQQ=
 		</data>
 		<key>Headers/CServiceSDKVersion.h</key>
 		<data>
-		r1YRGVuxGxwtS3uFFX/8MIxiWew=
+		MLM5d0MEKgFR9ePdN0Dc9M1O5sk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lQcI85sHKDGFKeftppLJmM3iDbo=
+		crqOnERooQaY7aQBNTus+oMbqzo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,22 +31,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qMwpv6bbE88IMEVn9gWmuprSfr0=
+			nC95bGRhgtPstjAooNKh/A4aDQQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+F0odmdx+c3ahCtfpbPkdbX+pm7Bkc1CGoWNJtXqIhw=
+			y2QSlarwJB1CzV3PKQ5Cjo9kubzpM2D1RS2jLozTmjc=
 			</data>
 		</dict>
 		<key>Headers/CServiceSDKVersion.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r1YRGVuxGxwtS3uFFX/8MIxiWew=
+			MLM5d0MEKgFR9ePdN0Dc9M1O5sk=
 			</data>
 			<key>hash2</key>
 			<data>
-			BDr5luNRaeFOc1S73/eA0uujcKXyv51bJCVR8ZBxTow=
+			goIMEzu3KpMkiUPCr0VmmxUrmeCA6GtdnogEQ++vh9M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
