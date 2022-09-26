@@ -10,19 +10,15 @@
 		</data>
 		<key>Headers/CServiceSDKVersion.h</key>
 		<data>
-		vy8oLxd/+tP7oBoI7FAUfm+rsaY=
+		0Zu02XZIw8I++eTkaOWuxRWpD7w=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lhjJxXd4fIXllSxiZ3CqkAliCes=
+		1bR5H5il/yDgWmDxomvZtrzsWQo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		iZCs8t012mBFDGoIWgxf/94uEws=
-		</data>
-		<key>README.md</key>
-		<data>
-		d+gJntwrgIQQ4kxkdACNDaHzNOY=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -42,11 +38,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vy8oLxd/+tP7oBoI7FAUfm+rsaY=
+			0Zu02XZIw8I++eTkaOWuxRWpD7w=
 			</data>
 			<key>hash2</key>
 			<data>
-			jfn9lfdKztc30k5BUNge4IrqhLMFrhLp5K019lFGLqs=
+			pzeovRLb6qap4L7VCCDMpbyT4SVVLKN0qWRnhWbRWjM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -58,17 +54,6 @@
 			<key>hash2</key>
 			<data>
 			vcWSQ/QCwGnQ6hI4ruV0I8o92WBNQrGbLXFTCYM9EAc=
-			</data>
-		</dict>
-		<key>README.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d+gJntwrgIQQ4kxkdACNDaHzNOY=
-			</data>
-			<key>hash2</key>
-			<data>
-			cSuJrq/vZ2grgB8Xe6r7HIl0keMzlHL7CwbONL9S98c=
 			</data>
 		</dict>
 	</dict>
