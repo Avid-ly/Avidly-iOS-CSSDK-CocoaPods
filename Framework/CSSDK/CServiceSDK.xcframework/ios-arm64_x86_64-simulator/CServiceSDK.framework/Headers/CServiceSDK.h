@@ -31,6 +31,8 @@
 
 + (void)submitQuestion:(NSString *)questionType questionContent:(NSString *)questionContent gameAccountId:(NSString *)gameAccountId scene:(NSString *)scene images:(NSArray <UIImage *> *)images customParams:(NSString *)customParams completion:(void (^)(BOOL succeed, NSError *error))completionBlock;
 
++ (void)submitQuestion:(NSString *)questionType questionContent:(NSString *)questionContent gameAccountId:(NSString *)gameAccountId scene:(NSString *)scene imagePaths:(NSArray <NSString *> *)imagePaths customParams:(NSString *)customParams completion:(void (^)(BOOL succeed, NSError *error))completionBlock;
+
 #pragma mark - message
 
 + (void)haveNewMessage:(void (^)(BOOL haveNewMessage))completionBlock;
