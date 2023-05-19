@@ -10,5 +10,5 @@
 
 #define CSSDKVERSION            @"2.1.1.2"
 #define CSSDK_SERVICE_VERSION   @"2112"
-#define CSSDK_BUILD             @"1"
-#define CSSDKVersionString      @"CSSDK_VERSION_2112.1"
+#define CSSDK_BUILD             @"2"
+#define CSSDKVersionString      @"CSSDK_VERSION_2112.2"
