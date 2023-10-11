@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name             = 'CSSDK'
-  s.version          = '2.1.1.3'
-  s.summary          = 'CSSDK 2.1.1.3'
+  s.version          = '2.1.1.4'
+  s.summary          = 'CSSDK 2.1.1.4'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-CServiceSDK 2.1.1.3
+CServiceSDK 2.1.1.4
                        DESC
 
   s.homepage         = 'https://guojunliu.github.io'
